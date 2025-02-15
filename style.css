@@ -1,0 +1,21 @@
+.container{
+    padding: 10px;
+}
+.oreng-bg{
+    background-color: #fed0cb;
+    border-radius: 5PX;
+ } 
+.carousel-inner{
+    padding: 20px 40px;
+}
+.price{
+    color: #f2176b;
+}
+.buy-now-btn{
+    border: none;
+    border-radius: 8px;
+   
+    color: #fed0cb;
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    cursor: pointer;
+}
